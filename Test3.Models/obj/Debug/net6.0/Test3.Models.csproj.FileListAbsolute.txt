@@ -1,0 +1,12 @@
+c:\Code\Learn Dotnet\Test3\Test3.Models\bin\Debug\net6.0\Test3.Models.deps.json
+c:\Code\Learn Dotnet\Test3\Test3.Models\bin\Debug\net6.0\Test3.Models.dll
+c:\Code\Learn Dotnet\Test3\Test3.Models\bin\Debug\net6.0\Test3.Models.pdb
+c:\Code\Learn Dotnet\Test3\Test3.Models\obj\Debug\net6.0\Test3.Models.csproj.AssemblyReference.cache
+c:\Code\Learn Dotnet\Test3\Test3.Models\obj\Debug\net6.0\Test3.Models.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\Learn Dotnet\Test3\Test3.Models\obj\Debug\net6.0\Test3.Models.AssemblyInfoInputs.cache
+c:\Code\Learn Dotnet\Test3\Test3.Models\obj\Debug\net6.0\Test3.Models.AssemblyInfo.cs
+c:\Code\Learn Dotnet\Test3\Test3.Models\obj\Debug\net6.0\Test3.Models.csproj.CoreCompileInputs.cache
+c:\Code\Learn Dotnet\Test3\Test3.Models\obj\Debug\net6.0\Test3.Models.dll
+c:\Code\Learn Dotnet\Test3\Test3.Models\obj\Debug\net6.0\refint\Test3.Models.dll
+c:\Code\Learn Dotnet\Test3\Test3.Models\obj\Debug\net6.0\Test3.Models.pdb
+c:\Code\Learn Dotnet\Test3\Test3.Models\obj\Debug\net6.0\ref\Test3.Models.dll

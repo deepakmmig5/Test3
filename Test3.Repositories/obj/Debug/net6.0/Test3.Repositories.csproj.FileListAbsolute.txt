@@ -1,0 +1,15 @@
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\bin\Debug\net6.0\Test3.Repositories.deps.json
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\bin\Debug\net6.0\Test3.Repositories.dll
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\bin\Debug\net6.0\Test3.Repositories.pdb
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\Test3.Repositories.csproj.AssemblyReference.cache
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\Test3.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\Test3.Repositories.AssemblyInfoInputs.cache
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\Test3.Repositories.AssemblyInfo.cs
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\Test3.Repositories.csproj.CoreCompileInputs.cache
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\Test3.Repositories.dll
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\refint\Test3.Repositories.dll
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\Test3.Repositories.pdb
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\ref\Test3.Repositories.dll
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\bin\Debug\net6.0\Test3.Models.dll
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\bin\Debug\net6.0\Test3.Models.pdb
+c:\Code\Learn Dotnet\Test3\Test3.Repositories\obj\Debug\net6.0\Test3.Repositories.csproj.CopyComplete
