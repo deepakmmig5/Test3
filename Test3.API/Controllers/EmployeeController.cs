@@ -20,9 +20,9 @@ public class EmployeeController : ControllerBase
     }
 
     [HttpGet("GetEmployee")]
-    public IActionResult GetEmployee()
+    public async Task<IActionResult> GetEmployee()
     {
-        return Ok(_emp.GetEmployees());
+        return Ok(await _emp.GetEmployees());
     }
 
 

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test3.Repositories", "Test3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test3.API", "Test3.API\Test3.API.csproj", "{B0FF6567-519D-484D-B785-0EDFEE409543}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "win_Test", "win_Test\win_Test.csproj", "{FC9A01E5-6573-458D-882D-39B964FE446E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{B0FF6567-519D-484D-B785-0EDFEE409543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0FF6567-519D-484D-B785-0EDFEE409543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0FF6567-519D-484D-B785-0EDFEE409543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9A01E5-6573-458D-882D-39B964FE446E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9A01E5-6573-458D-882D-39B964FE446E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9A01E5-6573-458D-882D-39B964FE446E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9A01E5-6573-458D-882D-39B964FE446E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

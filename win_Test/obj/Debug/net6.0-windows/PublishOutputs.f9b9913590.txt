@@ -1,0 +1,5 @@
+C:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\publish\win_Test.exe
+C:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\publish\win_Test.dll
+C:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\publish\win_Test.deps.json
+C:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\publish\win_Test.runtimeconfig.json
+C:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\publish\win_Test.pdb

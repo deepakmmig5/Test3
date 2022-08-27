@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
@@ -16,4 +17,8 @@ public class Centres
         public string? Centre { get; set; }
 
         public string? State { get; set; }="";
+
+
+        [NotMapped]
+        public List<Employees>? EmployeeList { get; set; }
 }

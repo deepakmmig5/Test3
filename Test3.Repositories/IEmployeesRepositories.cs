@@ -7,7 +7,7 @@ public interface IEmployeesRepositories
 {
 
    Task<Employees> Create(Employees obj);
-   List<Employees> GetEmployees();
+   Task<IEnumerable<Employees>> GetEmployees();
 
    Task<Employees> UpdateEmployees(Employees obj);
 
@@ -36,11 +36,11 @@ public class EmployeesRepositories : IEmployeesRepositories
         throw new NotImplementedException();
     }
 
-    public List<Employees> GetEmployees()
+    public async Task<IEnumerable<Employees>> GetEmployees()
     {
         var collEmp=_dbcontext.GetCollection<Employees>(typeof(Employees).Name);
         var collCentre=_dbcontext.GetCollection<Centres>(typeof(Centres).Name);
- var Query = (from i in collEmp.AsQueryable()
+ var Query = await (from i in collEmp.AsQueryable()
             join d in collCentre.AsQueryable() on i.CentreID equals d.CentreID 
             select new Employees(){
                 EmployeeID=i.EmployeeID,
@@ -48,7 +48,7 @@ public class EmployeesRepositories : IEmployeesRepositories
                 Gender=i.Gender,
                 DateOfBirth=i.DateOfBirth,
                 CentreInfo=d
-            }).ToList();
+            }).ToListAsync();
 
 
         return Query;

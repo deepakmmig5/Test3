@@ -17,7 +17,7 @@ builder.Services.Configure<Mongosettings>(options =>
 builder.Services.AddScoped<IdbContext, dbContext>();
 builder.Services.AddScoped<IEmployeesRepositories, EmployeesRepositories>();
 builder.Services.AddScoped<ICentresRepositories, CentresRepositories>();
-
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 
 

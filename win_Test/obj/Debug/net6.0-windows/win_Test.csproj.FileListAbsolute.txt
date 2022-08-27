@@ -1,0 +1,15 @@
+C:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\win_Test.exe
+c:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\win_Test.deps.json
+c:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\win_Test.runtimeconfig.json
+C:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\win_Test.dll
+C:\Code\Learn Dotnet\Test3\win_Test\bin\Debug\net6.0-windows\win_Test.pdb
+C:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\win_Test.csproj.AssemblyReference.cache
+C:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\win_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\win_Test.AssemblyInfoInputs.cache
+C:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\win_Test.AssemblyInfo.cs
+C:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\win_Test.csproj.CoreCompileInputs.cache
+C:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\win_Test.dll
+C:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\refint\win_Test.dll
+C:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\win_Test.pdb
+c:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\win_Test.genruntimeconfig.cache
+c:\Code\Learn Dotnet\Test3\win_Test\obj\Debug\net6.0-windows\ref\win_Test.dll

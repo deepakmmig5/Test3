@@ -31,8 +31,8 @@
               "c:\\Code\\Learn Dotnet\\Test3\\Test3.Models\\Test3.Models.csproj": {
                 "projectPath": "c:\\Code\\Learn Dotnet\\Test3\\Test3.Models\\Test3.Models.csproj"
               },
-              "C:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj": {
-                "projectPath": "C:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj"
+              "c:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj": {
+                "projectPath": "c:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj": {
+    "c:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj",
+        "projectUniqueName": "c:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj",
         "projectName": "Test3.Repositories",
-        "projectPath": "C:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj",
+        "projectPath": "c:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\Test3.Repositories.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\obj\\",
+        "outputPath": "c:\\Code\\Learn Dotnet\\Test3\\Test3.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
